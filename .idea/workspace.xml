@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3d225ec-a7c8-47d2-8fc1-0c1a54a68097" name="Changes" comment="跳跃游戏">
+      <change afterPath="$PROJECT_DIR$/double_points/11_H指数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/double_points/12_O(1) 时间插入、删除和获取随机元素.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/double_points/10_跳跃游戏2.py" beforeDir="false" afterPath="$PROJECT_DIR$/double_points/10_跳跃游戏2.py" afterDir="false" />
     </list>
@@ -52,32 +54,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.01_合并两个有序数组.executor": "Debug",
-    "Python.02_移除元素.executor": "Debug",
-    "Python.03_删除有序数组中的重复项.executor": "Debug",
-    "Python.04_删除有序数组中的重复项2.executor": "Debug",
-    "Python.05_多数元素.executor": "Debug",
-    "Python.06_轮转数组.executor": "Debug",
-    "Python.07_买卖股票的最佳时机.executor": "Run",
-    "Python.08_买卖股票的最佳时机2.executor": "Run",
-    "Python.09_跳跃游戏.executor": "Debug",
-    "Python.10_跳跃游戏2.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "origin",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.01_合并两个有序数组.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.02_移除元素.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.03_删除有序数组中的重复项.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.04_删除有序数组中的重复项2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.05_多数元素.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.06_轮转数组.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.07_买卖股票的最佳时机.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_买卖股票的最佳时机2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_跳跃游戏.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10_跳跃游戏2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.H指数.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;origin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.10_跳跃游戏2">
+}</component>
+  <component name="RunManager" selected="Python.11_H指数">
     <configuration name="07_买卖股票的最佳时机" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_basic" />
       <option name="ENV_FILES" value="" />
@@ -170,8 +173,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="11_H指数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_basic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/double_points" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\project\python\python_basic\double_points\11_H指数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11_H指数" />
         <item itemvalue="Python.10_跳跃游戏2" />
         <item itemvalue="Python.09_跳跃游戏" />
         <item itemvalue="Python.08_买卖股票的最佳时机2" />
@@ -207,7 +234,9 @@
       <workItem from="1774596447377" duration="1492000" />
       <workItem from="1774598450342" duration="7193000" />
       <workItem from="1774930851682" duration="190000" />
-      <workItem from="1774948634551" duration="6997000" />
+      <workItem from="1774948634551" duration="7164000" />
+      <workItem from="1775021137170" duration="4772000" />
+      <workItem from="1775031720607" duration="3631000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -265,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774606781309</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="跳跃游戏">
+      <option name="closed" value="true" />
+      <created>1774959972416</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774959972416</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +362,7 @@
     <SUITE FILE_PATH="coverage/python_basic$01_.coverage" NAME="01_合并两个有序数组 Coverage Results" MODIFIED="1773732997819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/double_points" />
     <SUITE FILE_PATH="coverage/python_basic$04_2.coverage" NAME="04_删除有序数组中的重复项2 Coverage Results" MODIFIED="1773822514509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/double_points" />
     <SUITE FILE_PATH="coverage/python_basic$08_2.coverage" NAME="08_买卖股票的最佳时机2 Coverage Results" MODIFIED="1774351914252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/double_points" />
+    <SUITE FILE_PATH="coverage/python_basic$H.coverage" NAME="H指数 Coverage Results" MODIFIED="1775023207560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/double_points" />
     <SUITE FILE_PATH="coverage/python_basic$06_.coverage" NAME="06_轮转数组 Coverage Results" MODIFIED="1773919514250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/double_points" />
   </component>
 </project>
